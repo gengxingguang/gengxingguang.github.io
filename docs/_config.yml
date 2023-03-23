@@ -14,7 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title                    : "Minimal Mistakes"
+subtitle                 : "A Jekyll theme"
+description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
