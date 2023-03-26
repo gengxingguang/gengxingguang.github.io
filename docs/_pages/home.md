@@ -6,11 +6,10 @@ header:
   overlay_color: "#333"
   overlay_image: /assets/images/header-image.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Get Started"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-angle-double-down'></i> Get Started"
+      url: "/docs/analysis/"
 excerpt: >
-  Welcome to my website! I'm excited to share my thoughts and projects with you.<br />
-  Take a look around and let me know what you think.
+  Welcome to our website for course 02856! We are thrilled to have the opportunity to share our thoughts and insights with you.<br />
 
 feature_row:
   - title: "Project 1"
@@ -25,8 +24,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Welcome
 
-Thank you for visiting my website! I'm passionate about [writing](/blog/) and [creating projects](/portfolio/) that make a positive impact on the world.
 
 {% include feature_row %}
