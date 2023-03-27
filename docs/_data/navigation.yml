@@ -22,7 +22,7 @@ foo:
 main:
   - title: "SF crime data analysis"
     url: /docs/analysis/
-  - title: "About"
+  - title: "Notebook"
     url: /about/
 
 
