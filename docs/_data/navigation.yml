@@ -20,7 +20,7 @@ foo:
 
 # main links
 main:
-  - title: "SF crime data analysis"
+  - title: "NYC Restaurant Inspections Analysis"
     url: /docs/analysis/
   - title: "Notebook"
     url: /about/

@@ -9,11 +9,11 @@ header:
     - label: "<i class='fas fa-angle-double-down'></i> Get Started"
       url: "/docs/analysis/"
 excerpt: >
-  Welcome to our website for course 02856! We are thrilled to have the opportunity to share our thoughts and insights with you.<br />
+  Welcome to our website for NYC Restaurant Inspections Analysis! We are thrilled to have the opportunity to share our thoughts and insights with you.<br />
 
 feature_row:
   - title: "Notebook"
-    excerpt: "You can click on Read More to see our notebook for this assignment!"
+    excerpt: "You can click on Read More to see our notebook for NYC Restaurant Inspections analysis!"
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"

@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Notebook for assignment 2"
+title: "Notebook for NYC Restaurant Inspections"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -12,9 +12,8 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
+last_modified_at: 2023-05-09T11:59:26-04:00
 toc: true
 ---
 
-
-{% include_relative Assignment_2.html %}
+({% include_relative Project.html %})
