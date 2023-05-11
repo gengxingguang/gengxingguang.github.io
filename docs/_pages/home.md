@@ -17,13 +17,12 @@ feature_row:
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-feature_row:
-  - title: "dsdsd"
-    excerpt: "You can click on Read More to see our notebook for NYC Restaurant Inspections analysis!"
-    url: "https://app.peergrade.io/student/courses/4ccc11f0-1312-49e6-b867-10086346a324/assignments/5ae003c7-07f9-4ba9-9a43-10a72e125a38/submission"
-    btn_label: "Read More"
+  - title: "GitHub"
+    excerpt: "Check out our GitHub repository for the NYC Restaurant Inspections analysis code!"
+    url: "https://github.com/gengxingguang/gengxingguang.github.io/tree/main/docs"
+    btn_label: "View on GitHub"
     btn_class: "btn--primary"
+
 
 ---
 
